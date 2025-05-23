@@ -47,6 +47,11 @@ To document and reflect on my daily progress as I dive deeper into:
 | --- | --------------------------- | ------------------------- |
 | 01  | Generative AI               | learn the AI depeer and understand the real world use|
 | 02  | pydantic typing module      | Explore the pydantic and its structure and its basic    |
-| 03  | fast API                    | Create a simple Get API using fast api to understand fast api    |
+| 04  | API parameter               | Create a simple api with fast api using parameter   |
+| 05  | dependenciy injection       | practice dependecy injection with to make fast api more easy  |
+| 06  | task-tracker                | task tracker using api    |
+| 07  | SDK open ai                 | learn sdk and open ai and agent in details    |
+
+
 
 
