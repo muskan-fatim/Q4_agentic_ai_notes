@@ -51,6 +51,8 @@ To document and reflect on my daily progress as I dive deeper into:
 | 05  | dependenciy injection       | practice dependecy injection with to make fast api more easy  |
 | 06  | task-tracker                | task tracker using api    |
 | 07  | SDK open ai                 | learn sdk and open ai and agent in details    |
+| 08  | LLM DEEP Learning           | learn llm in deeper and also read about first llm    |
+
 
 
 
